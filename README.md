@@ -1,0 +1,1 @@
+Bitte laden Sie die pdf-Datei in den Dateipfad des Jupyternotebooks hoch. Dann fügen Sie diesen Dateipfad dem pdfloader-Modul in Ihrem Skript hinzu. Auf die gleiche Weise können Sie den Dateipfad Ihres Jupyternotebooks zum Herunterladen des LLM in der ersten Zeile eingeben.
